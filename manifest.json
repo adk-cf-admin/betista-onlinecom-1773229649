@@ -1,0 +1,19 @@
+{
+  "name": "Betista Casino",
+  "short_name": "Betista Casino",
+  "theme_color": "",
+  "background_color": "#171717",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773228798-bez-nazvaniia.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

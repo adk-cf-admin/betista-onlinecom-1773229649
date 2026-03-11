@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://betista-online.com/
+Sitemap: https://betista-online.com/sitemap.xml
